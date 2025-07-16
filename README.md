@@ -30,9 +30,9 @@ Here are a few things I’ve built recently:
 |-------------------|---------------------------------------------------|---------------------------------------------|
 | **IntervieuAI**   | [Live Site](https://intervieuai.codeofbytes.com)  | React, Firebase, Gemini AI, jsPDF, Clerk    |
 | **CareerMent**    | [Live Site](https://careerment.codeofbytes.com)| React, Express, MongoDB, Calendly, Mailtrap |
-| **Expense Tracker** | [Live Site](https://github.com/dhruv7225/expensetracker)| Java, JSP, Servlets, Hibernate, MySQL       |
-| **BlinkTalk**     | [Live Site](https://github.com/dhruv7225/blinktalk) | React, Firebase, Auth, Realtime Messaging   |
+| **BlinkTalk**     | [Live Site](https://blinktalk.codeofbytes.com) | React, Firebase, Auth, Realtime Messaging   |
 | **Nuvate**        | [Live Site](https://nuvatetechnology.com)         | Next.js, Mailtrap             |
+| **Expense Tracker** | [Github](https://github.com/dhruv7225/expensetracker)| Java, JSP, Servlets, Hibernate, MySQL       |
 
 ---
 
