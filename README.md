@@ -26,7 +26,7 @@ I love building clean, interactive web experiences & solving real-world problems
 
 Here are a few things I’ve built recently:
 
-| 🕹️ Project        | 🔗 Live Demo                                      | 📂 Tech Used                                |
+| 🕹️ Project        | 🔗 Live Demo / Github                                    | 📂 Tech Used                                |
 |-------------------|---------------------------------------------------|---------------------------------------------|
 | **IntervieuAI**   | [Live Site](https://intervieuai.codeofbytes.com)  | React, Firebase, Gemini AI, jsPDF, Clerk    |
 | **CareerMent**    | [Live Site](https://careerment.codeofbytes.com)| React, Express, MongoDB, Calendly, Mailtrap |
