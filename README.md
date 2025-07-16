@@ -51,7 +51,7 @@ Here are a few things I’ve built recently:
   <a href="https://www.linkedin.com/in/dhruv7225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pateldhruv7225@gmail.com">
+  <a href="mailto:dhruvp7225@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Dhruv001_32/">
