@@ -17,7 +17,7 @@ I love building clean, interactive web experiences & solving real-world problems
 ## 🛠️ Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,nextjs,ts,mongodb,java,mysql,firebase,tailwind,vite,vercel,figma,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,nextjs,ts,mongodb,java,mysql,firebase,tailwind,vite,vercel,github,vscode" />
 </p>
 
 ---
